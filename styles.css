@@ -1,1 +1,34 @@
-/*  your css code here. If applicable */
+/* General Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+/* Question Styling */
+.question {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+/* Option Styling */
+.option {
+  margin-top: 10px;
+}
+
+/* Button Styling */
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
