@@ -1,11 +1,10 @@
-/* General Body Styling */
+
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
   line-height: 1.6;
 }
 
-/* Question Styling */
 .question {
   margin-bottom: 20px;
   font-size: 18px;
@@ -17,7 +16,6 @@ body {
   margin-top: 10px;
 }
 
-/* Button Styling */
 button {
   margin-top: 20px;
   padding: 10px 20px;
